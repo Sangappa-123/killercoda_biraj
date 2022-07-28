@@ -2,4 +2,4 @@
 
 ### WELL DONE !
 
-You solved this docker challenge !
+You solved this git challenge !
