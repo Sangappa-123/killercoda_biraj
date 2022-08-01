@@ -7,9 +7,14 @@
     },
     "steps": [
       {
-        "title": "Run a docker image",
+        "title": "git test1",
         "text": "step1/text.md",
         "verify": "step1/verify.sh"
+      },
+      {
+        "title": "git test2",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
       }
     ],
     "finish": {
