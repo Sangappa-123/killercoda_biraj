@@ -1,2 +1,2 @@
-Clone the below repo and create new branch "mybranch"
+Clone the below repo
 https://github.com/Sangappa-123/killercoda_biraj.git
