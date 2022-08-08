@@ -24,6 +24,7 @@
       "host01": [
         {"file": "hello.yml", "target": "~/", "chmod": "+w"}
       ]
+    }
   },
   "backend": {
     "imageid": "kubernetes-kubeadm-2nodes"
