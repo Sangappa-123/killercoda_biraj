@@ -22,7 +22,7 @@
     },
     "assets": {
       "host01": [
-        {"file": "hello.yml;", "target": "~/", "chmod": "+w"}
+        {"file": "hello.yml", "target": "~/", "chmod": "+w"}
       ]
   },
   "backend": {
