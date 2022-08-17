@@ -1,0 +1,2 @@
+
+Install Single node cluster.
