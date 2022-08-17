@@ -1,5 +1,5 @@
 {
-  "title": "Kubernetes basic",
+  "title": "Kubernetes 1node",
   "description": "Uses Kubernetes cluster and performs user input verification in all steps",
   "details": {
     "intro": {
