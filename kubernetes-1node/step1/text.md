@@ -1,2 +1,2 @@
 
-Install Single node cluster.
+Install microk8s cluster.
