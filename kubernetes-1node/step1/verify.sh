@@ -1,3 +1,3 @@
 #!/bin/bash
 
-microk8s kubectl version
+microk8s version
