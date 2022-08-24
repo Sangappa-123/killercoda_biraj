@@ -1,2 +1,2 @@
 #!/bin/bash
-microk8s version
+microk8s inspect
