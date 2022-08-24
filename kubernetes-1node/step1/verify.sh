@@ -1,4 +1,4 @@
 #!/bin/bash
 
-#microk8s version
+microk8s version
 ls -l
