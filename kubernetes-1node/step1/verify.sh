@@ -1,3 +1,2 @@
 #!/bin/bash
-
-if (microk8s version); then exit 0; else exit 1;
+microk8s version
