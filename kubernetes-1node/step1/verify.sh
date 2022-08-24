@@ -1,2 +1,2 @@
 #!/bin/bash
-microk8s inspect
+microk8s kubectl get all
