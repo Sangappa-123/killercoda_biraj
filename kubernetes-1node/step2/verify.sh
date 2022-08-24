@@ -1,2 +1,2 @@
 #!/bin/bash
-kubectl get pod helloworld
+microk8s kubectl get pod helloworld
